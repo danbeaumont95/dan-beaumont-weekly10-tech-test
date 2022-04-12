@@ -18,7 +18,7 @@ convertToPigLatin('walking the dog') === 'alkingway hetay ogday'
 &nbsp;
 
 
-In order to view/download this repo to your computer, click on the clone button, copy the repo name, then run the command git clone :repoName in your terminal
+In order to view/download this repo to your computer, click on the code button, copy the repo name (https://github.com/danbeaumont95/dan-beaumont-weekly10-tech-test.git), then run the command git clone :repoName in your terminal, then cd into the repo
 
 In order to run the tests once cloned, run the command npm i in your code editors terminal
 
